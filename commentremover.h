@@ -1,0 +1,17 @@
+/*
+ * commentremover.h
+ *
+ *  Created on: May 26, 2016
+ *      Author: skhasimkhanov
+ */
+
+enum RESULT {
+	NOCOMMENT,
+	SINGLEQUOTATIONMARK,
+	DOUBLEQUOTATIONMARK,
+	POSSIBLECOMMENT,
+	COMMENTSCARE,
+	LINECOMMENT,
+	BIGCOMMENTSTART,
+	BIGCOMMENTEND
+};
