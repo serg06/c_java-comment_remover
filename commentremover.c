@@ -3,11 +3,9 @@
  Name        : commentremover.c
  Author      : Serguei Khasimkhanov
  Version     : 1.0
- Copyright   : You can copy all you like. You can only share if a) you share
-				for free and credit me, or b) you share for money and give
-				me 20% of revenue.
- Description : Prints java/js/c code from stdin without printing the comments
- Problems	 :
+ Copyright   : Please use!
+ Description : Prints given java/js/c code from stdin without printing the comments
+ Known bugs  :
  ============================================================================
  */
 
